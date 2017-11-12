@@ -1,2 +1,5 @@
-//submodule
+ <<<<<<< .mine
 s3
+=======
+s1
+>>>>>>> .theirs
